@@ -1,0 +1,5 @@
+name: Pradeep Biswas
+ email : beastfake8@gmail.com
+ password : okokokokok
+ age : 45
+ city : Betul

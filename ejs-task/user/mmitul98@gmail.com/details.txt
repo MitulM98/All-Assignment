@@ -1,0 +1,5 @@
+name: mitul mitul
+ email : mmitul98@gmail.com
+ password : kdwjdowjowjfowjf
+ age : 32
+ city : dwnkfhewqf
